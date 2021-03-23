@@ -1,2 +1,2 @@
 # gtm-vim
-GTM vim plugin
+Based on https://github.com/git-time-metric/gtm-vim-plugin
